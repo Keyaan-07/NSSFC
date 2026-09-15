@@ -1,3 +1,2 @@
 # 15 september 2026
-I made a new journal. 
-![image](https://cdn.hackclub.com/01a0a3ac-8ca0-726f-b95c-da7c02cf1518/paste-1789452388160.png)
+I have done some part of the schematic in which i did the wiring of the ICM-20206 and the BMP580. Which i did by finding the pin number in the datasheet double checking it and finally connecting it using labels, i checked what the pin does 2 times so my partner doesn't get any problems while doing his work. Also i was AFK for 2-3 minutes which i was talking to my partner.
