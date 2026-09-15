@@ -25,3 +25,27 @@ Okay so the magnetometer i decided on is called the QMC5883P and is supported by
 Oh btw i chose BMP580 for the pressure sensor, because it is not that expensive and gets the work done perfectly, there was no symbol for this as well, and i made my own, tho the footprint was there:  
 ![image](https://cdn.hackclub.com/01a0a07b-f783-76fa-a438-394816824475/paste-1789398874870.png)
 That is all for this session, time spent: 1 hour 46 mins
+
+
+# 15 sept 2026
+
+I worked on the schematic today, after ahad. and i think i am done with the schematic. did a lot of stuff today, so here is it:  
+
+completed work on all 3 sensors:  
+![image](https://cdn.hackclub.com/01a0a502-2e8a-7477-a641-1166f06feb77/paste-1789474777770.png)  
+![image](https://cdn.hackclub.com/01a0a501-f78c-7c07-8b71-03fad1783b4d/paste-1789474762971.png)  
+made the buck converter and the LDO:  
+![image](https://cdn.hackclub.com/01a0a502-6e3e-7389-9c58-00749a4cd721/paste-1789474794680.png)  
+worked on the USB Port:  
+![image](https://cdn.hackclub.com/01a0a502-f1bc-726f-a621-8c13cf010e30/paste-1789474828355.png)  
+main MCU looks like this:  
+![image](https://cdn.hackclub.com/01a0a504-6f7f-7a66-8e98-b4782a5e9e18/paste-1789474926168.png)  
+now the only part left out is a buck-boost IC for the VTX port, and probably a uSD card slot(tho we'll probably not add it)  
+I assigned all the footprints as well, and i have not yet found an inductor so i did not add that footprint. For the schottky diodes, i have added [this](https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_LGE_C432153.html) diode's footprint. 
+Did a bit of placement of the PCB, here is how it looks:  
+![image](https://cdn.hackclub.com/01a0a52d-06cb-723f-b37e-bb4dd224fbf1/paste-1789477585231.png)  
+I found a footprint for the inductor, here it is:  
+![image](https://cdn.hackclub.com/01a0a52e-dba1-7003-a0c6-f0f55b8b23da/paste-1789477705764.png)  
+okay so i am done with the project for the day, and i am exhausted, so here is the final pic:  
+![image](https://cdn.hackclub.com/01a0a531-7b14-786b-870c-cde7930ec93c/paste-1789477877032.png)  
+![image](https://cdn.hackclub.com/01a0a531-b1a9-70d1-9f7f-c246fe31e01a/paste-1789477892176.png)  
