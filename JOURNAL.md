@@ -49,3 +49,9 @@ I found a footprint for the inductor, here it is:
 okay so i am done with the project for the day, and i am exhausted, so here is the final pic:  
 ![image](https://cdn.hackclub.com/01a0a531-7b14-786b-870c-cde7930ec93c/paste-1789477877032.png)  
 ![image](https://cdn.hackclub.com/01a0a531-b1a9-70d1-9f7f-c246fe31e01a/paste-1789477892176.png)  
+
+
+# 16 sept 2026
+
+i did a part of the placement of the board, and i think that we'll be done with less than 10 hours each sob. This is what the board looks like right now:  
+![image](https://cdn.hackclub.com/01a0aa81-97fc-7966-b5db-63db2453a81a/paste-1789567014094.png)
