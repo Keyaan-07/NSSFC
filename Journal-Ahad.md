@@ -8,7 +8,7 @@ I have done some part of the schematic in which i did the wiring of the ICM-2020
 
 # 16 & 17 September
 
-I worked on the layout which was mostly done by my partner. I forgot to save my work last time and my laptop died :sob: which was about 30 mins of work which i did rn. The routing must be bad compared to my teammate as he has benn working on hardware for like 5 years and i am not even 5 months in so he might reroute a few things and i will also do the main thing that is the connection pads for connecting all the stuff
+I worked on the layout which was mostly done by my partner. I forgot to save my work last time and my laptop died :sob: which was about 30 mins of work which i did rn. The routing must be bad compared to my teammate as he has benn working on hardware for like 5 years and i am not even 5 months in so he might reroute a few things and i will also do the main thing that is the connection pads for connecting all the stuff. I was talking to my teammate for about 5 to 10 mins so i might be AFK in the lapse
 
 ![image](https://cdn.hackclub.com/01a0aed0-32e9-73d5-844b-e4e37f3b8d90/paste-1789639272556.png)
 ![image](https://cdn.hackclub.com/01a0aed0-84dc-725c-b2c2-5498f9d22aa9/paste-1789639293379.png)
