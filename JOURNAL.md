@@ -55,3 +55,10 @@ okay so i am done with the project for the day, and i am exhausted, so here is t
 
 i did a part of the placement of the board, and i think that we'll be done with less than 10 hours each sob. This is what the board looks like right now:  
 ![image](https://cdn.hackclub.com/01a0aa81-97fc-7966-b5db-63db2453a81a/paste-1789567014094.png)
+
+
+# 18 sept 2026
+
+I have been given the placement task by ahad, as he says he is bad at placement, thus i'll take my time out today and complete the placement! Here is progress 30 mins in the session:  
+![image](https://cdn.hackclub.com/01a0b2f6-4600-773e-8119-3541cb4d721f/paste-1789708878975.png)  
+Me tryna make it look like a commercial FPV drone flight controller!!
