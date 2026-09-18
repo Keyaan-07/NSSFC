@@ -6,9 +6,17 @@ I have done some part of the schematic in which i did the wiring of the ICM-2020
 ![image](https://cdn.hackclub.com/01a0a3d3-b853-75f7-891b-3260962fde0e/paste-1789454955146.png)
 
 
-# 16 & 17 September
+# 16 & 17 September 2026
 
 I worked on the layout which was mostly done by my partner. I forgot to save my work last time and my laptop died :sob: which was about 30 mins of work which i did rn. The routing must be bad compared to my teammate as he has benn working on hardware for like 5 years and i am not even 5 months in so he might reroute a few things and i will also do the main thing that is the connection pads for connecting all the stuff. I was talking to my teammate for about 5 to 10 mins so i might be AFK in the lapse
 
 ![image](https://cdn.hackclub.com/01a0aed0-32e9-73d5-844b-e4e37f3b8d90/paste-1789639272556.png)
 ![image](https://cdn.hackclub.com/01a0aed0-84dc-725c-b2c2-5498f9d22aa9/paste-1789639293379.png)
+
+
+# 17 September 2026
+
+i added the pads which were the time taking part as i was not able to fit into the previous layout so i had to do the layout again which was mostly done by me and my teammate also helped me in finding the corect footprint. I also added the testpoints in the schematic which i found confusing
+
+![image](https://cdn.hackclub.com/01a0b28d-6b44-7334-901e-8e6467d2c248/paste-1789702004285.png)
+
