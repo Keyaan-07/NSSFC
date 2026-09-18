@@ -61,4 +61,16 @@ i did a part of the placement of the board, and i think that we'll be done with 
 
 I have been given the placement task by ahad, as he says he is bad at placement, thus i'll take my time out today and complete the placement! Here is progress 30 mins in the session:  
 ![image](https://cdn.hackclub.com/01a0b2f6-4600-773e-8119-3541cb4d721f/paste-1789708878975.png)  
-Me tryna make it look like a commercial FPV drone flight controller!!
+Me tryna make it look like a commercial FPV drone flight controller!!  
+
+I did some footprint manipulation for easier routing for my IMU circuitry, and i have informed ahad to do the same too. Here is the updated footprint:  
+![image](https://cdn.hackclub.com/01a0b312-6bae-7d73-9486-c689b7236680/paste-1789710723892.png)  
+
+I removed the two pins on the bottom right. The actual routing will be done like this:  
+![image](https://cdn.hackclub.com/01a0b313-019b-7785-96e1-8f0bf7388fc2/paste-1789710761592.png)  
+
+Oh also, i dont know if i have told it, but i have made these pads myself :3c  
+![image](https://cdn.hackclub.com/01a0b314-05bd-7715-97ad-511c65f4ebc4/paste-1789710828839.png)  
+
+I am done with the placement and some routing, and it looks beautiful:  
+![image](https://cdn.hackclub.com/01a0b340-df09-7fb5-b179-a890f4982036/paste-1789713767706.png)
