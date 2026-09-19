@@ -6,7 +6,7 @@ NSSFC is an FPV flight controller made with the STM32F405 and it has an IMU, Bar
 ![pcb](https://cdn.hackclub.com/01a0ba9c-c613-7759-ba2e-12fc01e75e84/paste-1789837229892.png)  
 <!-- ![kicad-render](https://cdn.hackclub.com/01a0baac-9bc2-7ff9-bda2-ef1c0acee228/paste-1789838268458.png) -->
 ![kicad-render](https://cdn.hackclub.com/01a0baad-3077-7e57-80d2-fea76b8812c0/paste-1789838306085.png)
-![schematic](/hardware/nssfc.svg)  
+![schematic](/images/nssfc.svg)  
 
 
 # BOM
