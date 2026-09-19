@@ -20,3 +20,9 @@ i added the pads which were the time taking part as i was not able to fit into t
 
 ![image](https://cdn.hackclub.com/01a0b28d-6b44-7334-901e-8e6467d2c248/paste-1789702004285.png)
 
+# 19 September 2026
+
+I had started routing the PCB after routing it 3 times and phew that wa s brutal torture after seeing the first one that I layed out and routed myself. My teammate helped in the layout or else i would have to take several hits from #hardware in slack. Finally our project is ready (hopefully) and only the parts of repo are remaining.
+
+![image](https://cdn.hackclub.com/01a0b93b-7b7a-72cd-a89a-02e0b2436d54/paste-1789814074038.png)
+![image](https://cdn.hackclub.com/01a0b93c-114f-70fe-b7d1-113782eb7d05/paste-1789814114531.png)
