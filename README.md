@@ -43,3 +43,10 @@ NSSFC is an FPV flight controller made with the STM32F405 and it has an IMU, Bar
 |                                                          |                |                |                                        |        |LCSC shipping|9.3    |                                                  |
 |                                                          |                |                |                                        |        |PCB Shipping |11.25  |                                                  |
 |                                                          |                |                |                                        |        |Total        |45.8309|                                                  |
+
+
+
+### made by keyaan and ahad
+
+# licensing
+licensed under the MIT license!
