@@ -22,7 +22,15 @@ i added the pads which were the time taking part as i was not able to fit into t
 
 # 19 September 2026
 
-I had started routing the PCB after routing it 3 times and phew that wa s brutal torture after seeing the first one that I layed out and routed myself. My teammate helped in the layout or else i would have to take several hits from #hardware in slack. Finally our project is ready (hopefully) and only the parts of repo are remaining.
+I had started routing the PCB after routing it 3 times and phew that wa s brutal torture after seeing the first one that I layed out and routed myself. My teammate helped in the layout or else i would have to take several hits from #hardware in slack. Finally our project is ready (hopefully) and only the parts of repo are remaining. I did not rely on my teammate
 
 ![image](https://cdn.hackclub.com/01a0b93b-7b7a-72cd-a89a-02e0b2436d54/paste-1789814074038.png)
 ![image](https://cdn.hackclub.com/01a0b93c-114f-70fe-b7d1-113782eb7d05/paste-1789814114531.png)
+
+# 20 September 2026
+
+i rerouted the PCB again as i forgot to add the mounting holes and didnt have space to add them so i fully deleted the PCB and started it again this time not forgetting the mounting holes. And finally our PCB and the Full Flight controller is ready. And we got to learn so much from this and it was so fun rerouting iy like a thousand times.
+
+![image](https://cdn.hackclub.com/01a0bfcf-2cae-7a8a-a71d-32bb3d9b38b7/paste-1789924416687.png)
+![image](https://cdn.hackclub.com/01a0bfcf-4c81-7e37-b7ab-a6247d0d8616/paste-1789924425882.png)
+![image](https://cdn.hackclub.com/01a0bfcf-6cd5-729c-b741-dec69b4bf47b/paste-1789924434086.png)
