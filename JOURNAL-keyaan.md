@@ -74,3 +74,12 @@ Oh also, i dont know if i have told it, but i have made these pads myself :3c
 
 I am done with the placement and some routing, and it looks beautiful:  
 ![image](https://cdn.hackclub.com/01a0b340-df09-7fb5-b179-a890f4982036/paste-1789713767706.png)
+
+# 19 sept 2026
+i did some routing fixes, and this is what the PCB looks like in one type of view, so amazing:  
+![image](https://cdn.hackclub.com/01a0ba58-536f-7bce-8a00-a66f5eb0897c/paste-1789832746248.png)  
+Okay so now everything is done, here is how the final PCB looks:  
+![image](https://cdn.hackclub.com/01a0ba83-a98f-7af1-b296-952830e9895b/paste-1789835585427.png)  
+![image](https://cdn.hackclub.com/01a0ba83-d46f-7f36-84a9-5efe2a550db8/paste-1789835597711.png)  
+Now time for rendering!!
+

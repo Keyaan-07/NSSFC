@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 {"ARCHIVE_NAME": "", "EXTRA_LAYERS": "", "ALL_ACTIVE_LAYERS": false, "EXTEND_EDGE_CUT": false, "ALTERNATIVE_EDGE_CUT": false, "AUTO TRANSLATE": true, "AUTO FILL": true, "EXCLUDE DNP": false, "OPEN BROWSER": true, "BACKUP_OPT": true}
+=======
+{"ARCHIVE_NAME": "", "EXTRA_LAYERS": "", "ALL_ACTIVE_LAYERS": false, "EXTEND_EDGE_CUT": false, "ALTERNATIVE_EDGE_CUT": false, "AUTO TRANSLATE": true, "AUTO FILL": true, "EXCLUDE DNP": false, "OPEN BROWSER": true, "BACKUP_OPT": false}
+>>>>>>> 0f48cf7338cb699c58b1be012268fe649873906e
