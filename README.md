@@ -24,7 +24,7 @@ We made it to learn more about FLight controllers and make PCBs in a small area,
 
 ## How to flash firmware. 
 1. Hold the BOOT0 button and put in the USB into your computer. 
-2. use [betaflight web configurator](https://app.betaflight.com/) to flash the lastest build. [here](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FKeyaan-07%2FNSSFC%2Ftree%2Fmain%2Fhardware) is the latest build!
+2. use [betaflight web configurator](https://app.betaflight.com/) to flash the lastest build. [here](https://github.com/betaflight/betaflight/releases/download/2026.6.2/betaflight_2026.6.2_STM32F405.hex) is the latest build!
 
 
 # BOM
