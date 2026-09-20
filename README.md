@@ -2,11 +2,29 @@
 
 NSSFC is an FPV flight controller made with the STM32F405 and it has an IMU, Barometric pressure sensor and a magnetometer. It uses the betaflight as firmware(thus no firmware directory in this repository). The package is a typical 37mmx37mm.  
 
+View the board on [KiCanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FKeyaan-07%2FNSSFC%2Ftree%2Fmain%2Fhardware)  
+
+We made it to learn more about FLight controllers and make PCBs in a small area, especially something like 37x37mm!  
+
+
 ![3d render](/images/render-3d.png)
 ![pcb](https://cdn.hackclub.com/01a0ba9c-c613-7759-ba2e-12fc01e75e84/paste-1789837229892.png)  
 <!-- ![kicad-render](https://cdn.hackclub.com/01a0baac-9bc2-7ff9-bda2-ef1c0acee228/paste-1789838268458.png) -->
 ![kicad-render](https://cdn.hackclub.com/01a0baad-3077-7e57-80d2-fea76b8812c0/paste-1789838306085.png)
 ![schematic](/images/nssfc.svg)  
+
+
+## How to assemble:  
+1. order PCBs and components from the [/hardware/production](/hardware/production/) folder and order them from your supplier and PCB fab. Dont forget to get a stencil along with your PCB!
+2. place the PCB on a flat surface and place the stencil over it. 
+3. use medium-temp solder paste to put the soldermask pattern over the PCB. 
+4. carefully place all the components, use the [ibom](/hardware/bom/ibom.html) for smooth placement. 
+5. solder it in a reflow-oven or a hotplate!
+6. you're done!!
+
+## How to flash firmware. 
+1. Hold the BOOT0 button and put in the USB into your computer. 
+2. use [betaflight web configurator](https://app.betaflight.com/) to flash the lastest build. [here](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FKeyaan-07%2FNSSFC%2Ftree%2Fmain%2Fhardware) is the latest build!
 
 
 # BOM
@@ -46,7 +64,7 @@ NSSFC is an FPV flight controller made with the STM32F405 and it has an IMU, Bar
 
 
 
-### made by keyaan and ahad
+Made by Keyaan and Ahad
 
-# licensing
-licensed under the MIT license!
+# Licensing
+Licensed under the MIT License!
