@@ -4,7 +4,7 @@ NSSFC is an FPV flight controller made with the STM32F405 and it has an IMU, Bar
 
 View the board on [KiCanvas](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2FKeyaan-07%2FNSSFC%2Ftree%2Fmain%2Fhardware)  
 
-We made it to learn more about FLight controllers and make PCBs in a small area, especially something like 37x37mm!  
+We made it to learn more about Flight controllers and make PCBs in a small area, especially something like 37x37mm!  
 
 
 ![3d render](/images/render-3d.png)
@@ -15,16 +15,16 @@ We made it to learn more about FLight controllers and make PCBs in a small area,
 
 
 ## How to assemble:  
-1. order PCBs and components from the [/hardware/production](/hardware/production/) folder and order them from your supplier and PCB fab. Dont forget to get a stencil along with your PCB!
-2. place the PCB on a flat surface and place the stencil over it. 
-3. use medium-temp solder paste to put the soldermask pattern over the PCB. 
-4. carefully place all the components, use the [ibom](/hardware/bom/ibom.html) for smooth placement. 
-5. solder it in a reflow-oven or a hotplate!
-6. you're done!!
+1. Order PCBs and components from the [/hardware/production](/hardware/production/) folder and order them from your supplier and PCB fab. Don't forget to get a stencil along with your PCB!
+2. Place the PCB on a flat surface and place the stencil over it. 
+3. Use medium-temp solder paste to put the soldermask pattern over the PCB. 
+4. Carefully place all the components, use the [ibom](/hardware/bom/ibom.html) for smooth placement. 
+5. Solder it in a reflow-oven or a hotplate!
+6. You're done!!
 
 ## How to flash firmware. 
 1. Hold the BOOT0 button and put in the USB into your computer. 
-2. use [betaflight web configurator](https://app.betaflight.com/) to flash the lastest build. [here](https://github.com/betaflight/betaflight/releases/download/2026.6.2/betaflight_2026.6.2_STM32F405.hex) is the latest build!
+2. Use [betaflight web configurator](https://app.betaflight.com/) to flash the lastest build. [here](https://github.com/betaflight/betaflight/releases/download/2026.6.2/betaflight_2026.6.2_STM32F405.hex) is the latest build!
 
 
 # BOM
