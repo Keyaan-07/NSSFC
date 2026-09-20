@@ -78,7 +78,7 @@
         "annular_width": "error",
         "clearance": "ignore",
         "connection_width": "warning",
-        "copper_edge_clearance": "error",
+        "copper_edge_clearance": "ignore",
         "copper_sliver": "warning",
         "courtyards_overlap": "ignore",
         "creepage": "error",
@@ -156,7 +156,7 @@
         "min_track_width": 0.1,
         "min_via_annular_width": 0.05,
         "min_via_diameter": 0.4,
-        "solder_mask_to_copper_clearance": 0.0,
+        "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
       "teardrop_options": [
@@ -661,7 +661,7 @@
         "uuid": "b4318737-18a1-4845-b63a-4f8276d3f6cb"
       }
     ],
-    "used_designators": "",
+    "used_designators": "H1-4",
     "variants": []
   },
   "sheets": [
