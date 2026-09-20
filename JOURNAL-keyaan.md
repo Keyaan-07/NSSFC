@@ -83,3 +83,7 @@ Okay so now everything is done, here is how the final PCB looks:
 ![image](https://cdn.hackclub.com/01a0ba83-d46f-7f36-84a9-5efe2a550db8/paste-1789835597711.png)  
 Now time for rendering!!
 
+# 20 september 2026
+It is a few hours before midnight, and i am doing final renders, because ahad had to re-route his PCB for some reason. Thus, i have to do a new render for the README images, thus me doing that.  
+
+Time spent: about 30 minutes. 

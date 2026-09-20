@@ -8,9 +8,9 @@ We made it to learn more about Flight controllers and make PCBs in a small area,
 
 
 ![3d render](/images/render-3d.png)
-![pcb](https://cdn.hackclub.com/01a0ba9c-c613-7759-ba2e-12fc01e75e84/paste-1789837229892.png)  
+![pcb](https://cdn.hackclub.com/01a0bfd6-9d2e-7af1-b875-9d422cc23d21/paste-1789924908553.png)
 <!-- ![kicad-render](https://cdn.hackclub.com/01a0baac-9bc2-7ff9-bda2-ef1c0acee228/paste-1789838268458.png) -->
-![kicad-render](https://cdn.hackclub.com/01a0baad-3077-7e57-80d2-fea76b8812c0/paste-1789838306085.png)
+![image](https://cdn.hackclub.com/01a0bfe0-67e5-7f28-961a-40e236f72a86/paste-1789925548338.png)
 ![schematic](/images/nssfc.svg)  
 
 
