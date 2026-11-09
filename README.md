@@ -22,10 +22,19 @@ We made it to learn more about Flight controllers and make PCBs in a small area,
 5. Solder it in a reflow-oven or a hotplate!
 6. You're done!!
 
-## How to flash firmware. 
-1. Hold the BOOT0 button and put in the USB into your computer. 
-2. Use [betaflight web configurator](https://app.betaflight.com/) to flash the lastest build. [here](https://github.com/betaflight/betaflight/releases/download/2026.6.2/betaflight_2026.6.2_STM32F405.hex) is the latest build!
+## Firmware Flashing Guide:  
+1. Hold the BOOT0 button and put in the USB into your computer.  
+2. We will use [betaflight web configurator](https://app.betaflight.com/) to flash the lastest build. [here](https://github.com/betaflight/betaflight/releases/download/2026.6.2/betaflight_2026.6.2_STM32F405.hex) is the latest build, download it!  
+3. Also, download the config file from the [/config](/config/) folder. 
+3. Go to the firmware flasher tab in the betaflight app.  
+4. Click load local firmware, then select the downloaded `nssfc.config` file.  
+5. Click Load local firmware again, and then select the `.hex` file you downloaded.  
+6. Click Flash firmware to flash the firmware.  
+7. After the firmware has been flashed, go to the home page and then click connect, to connect to the FC.  
+8. A prompt asking _Apply custom defaults_ should pop up, click yes. 
+9. Your flashing part is done! Happy Flying!
 
+[here](https://betaflight.com/docs/wiki/guides/archive/Unified-Targets) is the source for the above steps. 
 
 # BOM
 |Designator                                                |Function        |Value           |Footprint                               |Quantity|Price        |Amount |Link                                              |
